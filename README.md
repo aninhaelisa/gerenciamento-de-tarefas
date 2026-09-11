@@ -7,11 +7,11 @@ A aplicação tem como objetivo permitir o gerenciamento de tarefas, possibilita
 
 ## Funcionalidades
 Atualmente, o projeto está em desenvolvimento. A ideia é implementar:
-[ ] Criar tarefas
-[ ] Listar tarefas
-[ ] Atualizar tarefas
-[ ] Excluir tarefas
-[ ] Marcar tarefas como concluídas
+[ ] Criar tarefas<br>
+[ ] Listar tarefas<br>
+[ ] Atualizar tarefas<br>
+[ ] Excluir tarefas<br>
+[ ] Marcar tarefas como concluídas<br>
 
 ## Objetivo
 Este projeto faz parte do meu processo de aprendizado em Java e Spring Boot, com foco em entender a estrutura de uma aplicação backend e a criação de APIs REST.
