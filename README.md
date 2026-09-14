@@ -27,3 +27,6 @@ Execute a aplicação pela sua IDE ou utilizando o Maven Wrapper:<br>
 #### STATUS
 > Em desenvolvimento. <br>
 Novas funcionalidades serão adicionadas conforme o avanço dos estudos.
+
+#### AUTORA: 
+[aninhaelisa](https://github.com/aninhaelisa)
