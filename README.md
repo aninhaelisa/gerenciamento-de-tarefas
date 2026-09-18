@@ -2,7 +2,7 @@
 Sistema de gerenciamento de tarefas desenvolvido para praticar os primeiros conceitos com Spring Boot. <br>
 > Projeto ainda em desenvolvimento
 
-## Sobre o projeto
+## ★ Sobre o projeto
 A aplicação tem como objetivo permitir o gerenciamento de tarefas, possibilitando organizar atividades de forma simples. Este é meu primeiro projeto utilizando Spring Boot, desenvolvido como parte dos meus estudos de Java e desenvolvimento backend.
 
 ## Funcionalidades
@@ -24,7 +24,7 @@ Entre na pasta do projeto:<br>
 Execute a aplicação pela sua IDE ou utilizando o Maven Wrapper:<br>
 `./mvnw spring-boot:run`
 
-#### AUTORA: 
+#### ✿ AUTORA: 
 [aninhaelisa](https://github.com/aninhaelisa)
 
 #### STATUS
