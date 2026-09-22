@@ -16,6 +16,17 @@ Atualmente, o projeto está em desenvolvimento. A ideia é implementar: <br>
 ## Objetivo
 Este projeto faz parte do meu processo de aprendizado em Java e Spring Boot, com foco em entender a estrutura de uma aplicação backend e a criação de APIs REST.
 
+## Ferramentas utilizadas
+
+- Java — Linguagem utilizada no desenvolvimento da aplicação.
+- Spring Boot — Framework utilizado para criar e estruturar a aplicação backend.
+- Apache Tomcat — Servidor utilizado para executar a aplicação Spring Boot.
+- MySQL — Banco de dados utilizado para armazenar as informações do sistema.
+- Postman — Ferramenta utilizada para testar as requisições e endpoints da API.
+- Maven — Ferramenta utilizada para gerenciamento de dependências e configuração do projeto.
+- Git e GitHub — Utilizados para versionamento e armazenamento do código-fonte.
+- VS Code — Editor utilizado para desenvolvimento do projeto.
+
 ### Como executar
 Clone o repositório:<br>
 `git clone https://github.com/aninhaelisa/java-learning.git`<br>
