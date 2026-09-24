@@ -2,7 +2,7 @@
 Sistema de gerenciamento de tarefas desenvolvido para praticar os primeiros conceitos com Spring Boot. <br>
 > Projeto ainda em desenvolvimento
 
-## ★ Sobre o projeto
+## ★ Sobre o projeto ❓️
 A aplicação tem como objetivo permitir o gerenciamento de tarefas, possibilitando organizar atividades de forma simples. Este é meu primeiro projeto utilizando Spring Boot, desenvolvido como parte dos meus estudos de Java e desenvolvimento backend.
 
 ## Funcionalidades ⚙️
@@ -13,7 +13,7 @@ Atualmente, o projeto está em desenvolvimento. A ideia é implementar: <br>
 [ ] Excluir tarefas<br>
 [ ] Marcar tarefas como concluídas<br>
 
-## Objetivo 
+## Objetivo 🔎
 Este projeto faz parte do meu processo de aprendizado em Java e Spring Boot, com foco em entender a estrutura de uma aplicação backend e a criação de APIs REST.
 
 ## Ferramentas utilizadas 🔧
@@ -27,7 +27,7 @@ Este projeto faz parte do meu processo de aprendizado em Java e Spring Boot, com
 - Git e GitHub — Utilizados para versionamento e armazenamento do código-fonte.
 - VS Code — Editor utilizado para desenvolvimento do projeto.
 
-### Como executar 
+### Como executar ▶️
 Clone o repositório:<br>
 `git clone https://github.com/aninhaelisa/java-learning.git`<br>
 Entre na pasta do projeto:<br>
@@ -35,9 +35,9 @@ Entre na pasta do projeto:<br>
 Execute a aplicação pela sua IDE ou utilizando o Maven Wrapper:<br>
 `./mvnw spring-boot:run`
 
-#### ✿ AUTORA: 
+#### ✿ ✨️ AUTORA: 
 [aninhaelisa](https://github.com/aninhaelisa)
 
-#### STATUS
+#### STATUS 🟠
 > Em desenvolvimento. <br>
-Novas funcionalidades serão adicionadas conforme o avanço dos estudos.
+Novas funcionalidades serão adicionadas conforme o avanço dos estudos 
