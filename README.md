@@ -1,4 +1,4 @@
-# gerenciamento-de-tarefas 🗒
+# gerenciamento-de-tarefas 🗒 ✨️
 Sistema de gerenciamento de tarefas desenvolvido para praticar os primeiros conceitos com Spring Boot. <br>
 > Projeto ainda em desenvolvimento
 
