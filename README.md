@@ -5,7 +5,7 @@ Sistema de gerenciamento de tarefas desenvolvido para praticar os primeiros conc
 ## ★ Sobre o projeto ❓️
 A aplicação tem como objetivo permitir o gerenciamento de tarefas, possibilitando organizar atividades de forma simples. Este é meu primeiro projeto utilizando Spring Boot, desenvolvido como parte dos meus estudos de Java e desenvolvimento backend.
 
-## Funcionalidades ⚙️
+## Funcionalidades ⚙️ 🔧
 Atualmente, o projeto está em desenvolvimento. A ideia é implementar: <br>
 [ ] Criar tarefas<br>
 [ ] Listar tarefas<br>
