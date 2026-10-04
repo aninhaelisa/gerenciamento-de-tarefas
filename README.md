@@ -1,4 +1,4 @@
-# gerenciamento-de-tarefas 🗒 ✨️
+# Gerenciamento-de-tarefas 🗒 ✨️
 Sistema de gerenciamento de tarefas desenvolvido para praticar os primeiros conceitos com Spring Boot. <br>
 > Projeto ainda em desenvolvimento
 
@@ -41,4 +41,3 @@ Execute a aplicação pela sua IDE ou utilizando o Maven Wrapper:<br>
 #### STATUS 🟠
 > Em desenvolvimento. <br>
 Novas funcionalidades serão adicionadas conforme o avanço dos estudos 
-✨️
